@@ -16,6 +16,8 @@ Send as many as you want, as fast as you want.
 
 Send any subject, any content and any attachments.
 
+Shows progress as emails are sent.
+
 ## Installing
 
 Just download the app file or build from [source](main.applescript)
